@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyAI_PdMHZTxWlWjV03UC2R-atML6AUWdwI")
+client = genai.Client(api_key")
 
 #Task-1
 response = client.models.embed_content(
